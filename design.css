@@ -1,0 +1,41 @@
+table {
+    border-collapse:collapse;
+  }
+  td,
+th {
+    border: 1px solid black;
+    padding: 10px 20px;
+}
+h1{
+  font-weight: bold;
+  font-size:xx-large;
+  color:rgb(44, 209, 157);
+}
+h2{
+  font-weight: bold;
+  font-size:x-large;
+  color:rgb(39, 212, 126);
+}
+h3{
+  font-weight: bold;
+  font-size:larger;
+  color:rgb(39, 212, 126);
+}
+li{
+  font-size:larger;
+  color:black;
+}
+p{
+  font-size: larger;
+  color:black;
+}
+#video-container {
+  margin-right: 600px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+video {
+  width: 320px;
+  height: 240px; 
+}
+html {background-color: rgb(255, 255, 255);}
